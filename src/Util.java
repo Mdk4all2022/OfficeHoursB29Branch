@@ -1,17 +1,22 @@
-<<<<<<< HEAD
+
 public class Util {
 
     public static void ConnectToDB(){
 
     }
-=======
-public class util{
+
+
 public static void makeEasyToRead(){
   
+
+}
+
+public static void takeBreak(){
+
 
 }
   
 
 
->>>>>>> develop
+
 }
